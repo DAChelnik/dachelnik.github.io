@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Hello, everyone #
+My name is Denis. I am Denis Chelnik.<br />
+I am currently studying a course "PHP Developer. Basic" in OTUS online school. <br /><br />
+Здравствуйте, меня зовут Денис.<br />
+Изучаю курс [PHP Developer. Basic](https://otus.ru/lessons/php-basic/) в школе [OTUS](https://otus.ru/ "OTUS онлайн-образование").
+Осваиваю ключевые возможности PHP для решения задач в различных IT-областях. А пока пытаюсь понять, почему же нельзя просто так взять и замерджить в мастер без пул реквеста ...
 
-You can use the [editor on GitHub](https://github.com/DAChelnik/dachelnik.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Контактная информация ##
+Телефон для связи: +7 910 741-41-20<br />
+E-mail: denis@chelnik.ru
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Образование ##
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DAChelnik/dachelnik.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Опыт работы ##
