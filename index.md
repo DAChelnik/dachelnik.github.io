@@ -10,22 +10,20 @@ I am currently studying a course "PHP Developer. Basic" in OTUS online school. <
 E-mail: denis@chelnik.ru
 
 ## Образование ##
-#### Белгородский ГАУ им. В. Я. Горина '17 ####
-Факультет: Экономический факультет<br />
-Специальность: Менеджмент
-#### Международный институт менеджмента Линк '06 ####
+### Белгородский ГАУ им. В. Я. Горина '17<br />
+Экономический факультет<br />
+Специальность: Менеджмент<br />
+
+### Международный институт менеджмента Линк '06<br />
 Факультет: Деловое администрирование<br />
 Professional Certificate in Management<br />
 The Certificate in Management Programme provides a broad-based, practical introduction to the key ideas, techniques and
 competencies needed to manage effectively and productively in modern organizations management roles and responsibilities,
 and those who need wider managerial understanding and competencies. Key areas studied are management roles and effectiveness and
 organisational contexts, managing people, managing finance and information and managing customers and quality.
-The award gives direct entry into the Professional Diploma in Management Programme.
-#### Воронежский государственный университет '00 ####
-Факультет: Математический факультет
+The award gives direct entry into the Professional Diploma in Management Programme.<br />
+
+### Воронежский государственный университет '00<br />
+Математический факультет<br />
 
 ## Опыт работы ##
-
-## Мои работы ##
-
-### Проектная работа, разработано(-на) для курса PHP Developer. Basic ###
